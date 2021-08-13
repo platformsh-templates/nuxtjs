@@ -9,9 +9,9 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
-    "nuxt": "^2.14.6",
-    "platformsh-config": "^2.3.1"
+    "core-js": "^3.15.1",
+    "nuxt": "^2.15.7",
+    "platformsh-config": "^2.4.1"
   },
   "devDependencies": {}
 }
