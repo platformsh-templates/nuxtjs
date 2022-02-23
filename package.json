@@ -9,9 +9,13 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "core-js": "^3.15.1",
-    "nuxt": "^2.15.7",
-    "platformsh-config": "^2.4.1"
+    "core-js": "^3.19.3",
+    "nuxt": "^2.15.8",
+    "platformsh-config": "^2.4.1",
+    "vue": "^2.6.14",
+    "vue-server-renderer": "^2.6.14",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^4.46.0"
   },
   "devDependencies": {}
 }
