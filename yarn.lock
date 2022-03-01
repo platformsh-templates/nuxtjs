@@ -2981,9 +2981,9 @@ destr@^1.0.0, destr@^1.1.0:
   integrity sha512-Ev/sqS5AzzDwlpor/5wFCDu0dYMQu/0x2D6XfAsQ0E7uQmamIgYJ6Dppo2T2EOFVkeVYWjc+PCLKaqZZ57qmLg==
 
 destroy@^1.0.4:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.1.0.tgz#b77ae22e472d85437141319d32ae40b344dff38a"
-  integrity sha512-R5QZrOXxSs0JDUIU/VANvRJlQVMts9C0L76HToQdPdlftfZCE7W6dyH0G4GZ5UW9fRqUOhAoCE2aGekuu+3HjQ==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/destroy/-/destroy-1.1.1.tgz#38a65ed2f2615ad12bf59c6b5e885512c0cf13dd"
+  integrity sha512-jxwFW+yrVOLdwqIWvowFOM8UPdhZnvOF6mhXQQLXMxBDLtv2JVJlVJPEwkDv9prqscEtGtmnxuuI6pQKStK1vA==
 
 destroy@~1.0.4:
   version "1.0.4"
@@ -3120,9 +3120,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.4.71:
-  version "1.4.73"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.73.tgz#422f6f514315bcace9615903e4a9b6b9fa283137"
-  integrity sha512-RlCffXkE/LliqfA5m29+dVDPB2r72y2D2egMMfIy3Le8ODrxjuZNVo4NIC2yPL01N4xb4nZQLwzi6Z5tGIGLnA==
+  version "1.4.74"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.74.tgz#f444036a90ffe75f6423b635e77edd4cc9e6cb2f"
+  integrity sha512-DvQ20M0I4dIH8KcAo7n7E4OEeNafZ1N8z6g6ck+ALCM0ZoV6mpjaX6ekjs31zKlqPzacU3lmjG9PZEa1mQhEpQ==
 
 elliptic@^6.5.3:
   version "6.5.4"
@@ -3631,9 +3631,9 @@ get-intrinsic@^1.0.2, get-intrinsic@^1.1.0, get-intrinsic@^1.1.1:
     has-symbols "^1.0.1"
 
 get-port-please@^2.2.0:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/get-port-please/-/get-port-please-2.4.2.tgz#7fe17e2e13bb328ccf659ce05a3fc90cfe519bc0"
-  integrity sha512-0XUWmjtES2zuKHJC6pE3eZiq7aFD4bZXrtS8MrKMUVniLUWZ/0T02s9Al8Le9tlQBppWsvoOTJIRVbHRgNRdEw==
+  version "2.4.3"
+  resolved "https://registry.yarnpkg.com/get-port-please/-/get-port-please-2.4.3.tgz#8f054020016bfafb7f65001db501079c02ed59d1"
+  integrity sha512-l5zVrG3mzz+I7MfbPwyJJ4xZKIdQfARpOtsBjUDUZ0iXlF0IXc1wMBg3Jb7G1te7tRzjOxu+MRLpvgxxTdCkwg==
   dependencies:
     fs-memo "^1.2.0"
 
