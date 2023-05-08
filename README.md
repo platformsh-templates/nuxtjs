@@ -12,7 +12,7 @@ NuxtJS is an open-source web framework based on Vue.js.
 
 ## Features
 
-* Node.js 14
+* Node.js 18
 * Automatic TLS certificates
 * yarn-based build
 
