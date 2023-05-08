@@ -18,10 +18,10 @@ NuxtJS is an open-source web framework based on Vue.js.
 
 ## Customizations
 
-The following files and additions make the framework work on Platform.sh, modified from the `npx` command [`create-nuxt-app`](https://github.com/nuxt/create-nuxt-app). If using this project as a reference for your own existing project, replicate the changes below to your project.
+The following files and additions make the framework work on Platform.sh, modified from the [`npx nuxi init <app>`](https://nuxt.new/) command for Nuxt v3.
+If using this project as a reference for your own existing project, replicate the changes below to your project.
 
 * The `.platform.app.yaml`, `.platform/services.yaml`, and `.platform/routes.yaml` files have been added. These provide Platform.sh-specific configuration and are present in all projects on Platform.sh. You may customize them as you see fit.
-* An additional module, [`config-reader-nodejs`](https://github.com/platformsh/config-reader-nodejs), has been added.  It provides convenience wrappers for accessing the Platform.sh environment variables.
 
 ## References
 
