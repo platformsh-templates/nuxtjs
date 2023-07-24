@@ -30,9 +30,10 @@ hooks:
   build: |
     echo "running yarn install"
     corepack yarn install
-    # corepack yarn build
-    echo "running nuxi build"
-    npx nuxi build
+    echo "running yarn build"
+    corepack yarn build
+  deploy: |
+    corepack yarn start
 
 # Information on the app's source code and operations that can be run on it.
 # More information: https://docs.platform.sh/create-apps/app-reference.html#source
