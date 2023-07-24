@@ -30,6 +30,7 @@ hooks:
   build: |
     corepack yarn install
     corepack yarn build
+    npx nuxi build
 
 # Information on the app's source code and operations that can be run on it.
 # More information: https://docs.platform.sh/create-apps/app-reference.html#source
