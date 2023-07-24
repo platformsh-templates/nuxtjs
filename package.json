@@ -1,15 +1,20 @@
 {
   "name": "nuxtjs-platformsh",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
+    "dev": "nuxt",
     "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "start": "nuxt start",
+    "generate": "nuxt generate"
   },
-  "devDependencies": {
-    "@types/node": "^18",
-    "nuxt": "^3.4.3"
-  }
+  "dependencies": {
+    "core-js": "^3.25.3",
+    "nuxt": "^2.15.8",
+    "platformsh-config": "^2.4.1",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {}
 }
