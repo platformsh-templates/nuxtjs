@@ -29,7 +29,7 @@ hooks:
   # More information: https://docs.platform.sh/create-apps/hooks/hooks-comparison.html#build-hook
   build: |
     corepack yarn install
-    corepack yarn build
+    # corepack yarn build
     npx nuxi build
 
 # Information on the app's source code and operations that can be run on it.
