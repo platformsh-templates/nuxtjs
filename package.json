@@ -1,5 +1,5 @@
 {
-  "name": "nuxtjs-platformsh",
+  "name": "nuxt-app",
   "private": true,
   "scripts": {
     "build": "nuxt build",
@@ -9,7 +9,11 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@types/node": "^18",
-    "nuxt": "^3.4.3"
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.0",
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "platformsh-config": "^2.4.1"
   }
 }
