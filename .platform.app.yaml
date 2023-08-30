@@ -27,6 +27,14 @@ variables:
 build:
   flavor: none
 
+# Required for storage
+# More info: https://unjs.io/blog/2023-08-25-nitro-2.6#default-persistent-data-storage
+disk: 128
+mounts:
+    '.data':
+        source: local
+        source_path: .data
+
 # Hooks allow you to customize your code/environment as the project moves through the build and deploy stages
 # More information: https://docs.platform.sh/create-apps/app-reference.html#hooks
 hooks:
