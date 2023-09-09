@@ -1195,14 +1195,14 @@
     "@types/node" "*"
 
 "@types/node@*":
-  version "20.5.9"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.5.9.tgz#a70ec9d8fa0180a314c3ede0e20ea56ff71aed9a"
-  integrity sha512-PcGNd//40kHAS3sTlzKB9C9XL4K0sTup8nbG5lC14kzEteTNuAFh9u5nA0o5TWnSG2r/JNPRXFVcHJIIeRlmqQ==
+  version "20.6.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.6.0.tgz#9d7daa855d33d4efec8aea88cd66db1c2f0ebe16"
+  integrity sha512-najjVq5KN2vsH2U/xyh2opaSEz6cZMR2SetLIlxlj08nOcmPOemJmUK2o4kUzfLqfrWE0PIrNeE16XhYDd3nqg==
 
 "@types/node@^18.17.0":
-  version "18.17.14"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.14.tgz#a621ad26e7eb076d6846dd3d39557ddf9d89f04b"
-  integrity sha512-ZE/5aB73CyGqgQULkLG87N9GnyGe5TcQjv34pwS8tfBs1IkCh0ASM69mydb2znqd6v0eX+9Ytvk6oQRqu8T1Vw==
+  version "18.17.15"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.15.tgz#31301a273b9ca7d568fe6d1c35ae52e0fb3f8d6a"
+  integrity sha512-2yrWpBk32tvV/JAd3HNHWuZn/VDN1P+72hWirHnvsvTGSqbANi+kSeuQR9yAHnbvaBvHDsoTdXV0Fe+iRtHLKA==
 
 "@types/resolve@1.20.2":
   version "1.20.2"
@@ -3059,9 +3059,9 @@ https-proxy-agent@^7.0.1:
     debug "4"
 
 httpxy@^0.1.4:
-  version "0.1.4"
-  resolved "https://registry.yarnpkg.com/httpxy/-/httpxy-0.1.4.tgz#78e4d7c81a4dea03e313278e9474430cf3931c93"
-  integrity sha512-ArXKNWhU5taozl6fFnu01M9HiInAqSOw4mUp+7DY/zbTHPmS8JBqH0IC3VLovRBd9b8ZE03ztemcxzeWT6pCoA==
+  version "0.1.5"
+  resolved "https://registry.yarnpkg.com/httpxy/-/httpxy-0.1.5.tgz#fd2401206e0b5d919aeda25e967ece0f1a6c8569"
+  integrity sha512-hqLDO+rfststuyEUTWObQK6zHEEmZ/kaIP2/zclGGZn6X8h/ESTWg+WKecQ/e5k4nPswjzZD+q2VqZIbr15CoQ==
 
 human-signals@^2.1.0:
   version "2.1.0"
@@ -3350,7 +3350,7 @@ jackspeak@^2.0.3:
   optionalDependencies:
     "@pkgjs/parseargs" "^0.11.0"
 
-jiti@^1.10.0, jiti@^1.18.2, jiti@^1.19.1, jiti@^1.19.3, jiti@^1.20.0:
+jiti@^1.18.2, jiti@^1.19.1, jiti@^1.19.3, jiti@^1.20.0:
   version "1.20.0"
   resolved "https://registry.yarnpkg.com/jiti/-/jiti-1.20.0.tgz#2d823b5852ee8963585c8dd8b7992ffc1ae83b42"
   integrity sha512-3TV69ZbrvV6U5DfQimop50jE9Dl6J8O1ja1dvBbMba/sZ3YBEQqJ2VZRoQPVnhlzjNtU1vaXRZVrVjU4qtm8yA==
@@ -3453,9 +3453,9 @@ lilconfig@^2.1.0:
   integrity sha512-utWOt/GHzuUxnLKxB6dk81RoOeoNeHgbrXiuGk4yyF5qlRz+iIVWu56E2fqGHFrXz0QNUhLB/8nKqvRH66JKGQ==
 
 listhen@^1.2.2, listhen@^1.4.8:
-  version "1.4.8"
-  resolved "https://registry.yarnpkg.com/listhen/-/listhen-1.4.8.tgz#238407ca43026358c25fe820b40faa1e0b71c955"
-  integrity sha512-mhIM2Wd68Yl7ywOWQB0iFZpF+kqhAXTbVgz2YiVn+8p+YoG2sSkAYorxtrnI4c9MHXvjSi3zjOCwwE53ex84PA==
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/listhen/-/listhen-1.5.0.tgz#e1041a162ca608637444969a9d949211c45ba3a4"
+  integrity sha512-qiCsszmva2NnayRCNV7G5TZz0AUQcCfJOhwlEDL58TXebt9nEHxYamsW0qvg88hTDwO/zm0YlU0YOzOx/FMW5w==
   dependencies:
     "@parcel/watcher" "^2.3.0"
     "@parcel/watcher-wasm" "2.3.0"
@@ -3466,7 +3466,7 @@ listhen@^1.2.2, listhen@^1.4.8:
     get-port-please "^3.1.1"
     h3 "^1.8.1"
     http-shutdown "^1.2.2"
-    jiti "^1.10.0"
+    jiti "^1.20.0"
     mlly "^1.4.2"
     node-forge "^1.3.1"
     pathe "^1.1.1"
@@ -4118,9 +4118,9 @@ nth-check@^2.0.1:
     boolbase "^1.0.0"
 
 nuxi@^3.7.3:
-  version "3.8.0"
-  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.8.0.tgz#4fa00bba388225b67ef99513317428f157d00862"
-  integrity sha512-SdeSKuKXTGZD5kbQR7eoM56/P30zK/FWp8QAgUzeI2ZlMyali53LvCh0UzvgCurSor9p66wm2o6FIqh3Avnjzg==
+  version "3.8.1"
+  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.8.1.tgz#d7bf1c23439289809d7045ebaf2eb92831e25852"
+  integrity sha512-rR3QSdA8LK8hXn1wUkz8OjyNxT2LBCNDRj2RX29SpC68Gtwe5+m5n67OP3/aTGUbqRNvNmoBiDJ0vvuVaLUvHA==
   optionalDependencies:
     fsevents "~2.3.3"
 
