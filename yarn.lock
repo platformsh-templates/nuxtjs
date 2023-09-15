@@ -1220,14 +1220,14 @@
     "@types/node" "*"
 
 "@types/node@*":
-  version "20.6.0"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.6.0.tgz#9d7daa855d33d4efec8aea88cd66db1c2f0ebe16"
-  integrity sha512-najjVq5KN2vsH2U/xyh2opaSEz6cZMR2SetLIlxlj08nOcmPOemJmUK2o4kUzfLqfrWE0PIrNeE16XhYDd3nqg==
+  version "20.6.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.6.1.tgz#8b589bba9b2af0128796461a0979764562687e6f"
+  integrity sha512-4LcJvuXQlv4lTHnxwyHQZ3uR9Zw2j7m1C9DfuwoTFQQP4Pmu04O6IfLYgMmHoOCt0nosItLLZAH+sOrRE0Bo8g==
 
 "@types/node@^18.17.0":
-  version "18.17.15"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.15.tgz#31301a273b9ca7d568fe6d1c35ae52e0fb3f8d6a"
-  integrity sha512-2yrWpBk32tvV/JAd3HNHWuZn/VDN1P+72hWirHnvsvTGSqbANi+kSeuQR9yAHnbvaBvHDsoTdXV0Fe+iRtHLKA==
+  version "18.17.16"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.17.16.tgz#ee7b103d102787fb1530bfc6d4a1e15014f10938"
+  integrity sha512-e0zgs7qe1XH/X3KEPnldfkD07LH9O1B9T31U8qoO7lqGSjj3/IrBuvqMeJ1aYejXRK3KOphIUDw6pLIplEW17A==
 
 "@types/resolve@1.20.2":
   version "1.20.2"
@@ -2398,9 +2398,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.4.477:
-  version "1.4.521"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.521.tgz#ce2e435319e76ee711656f0b6aa1798e622033d6"
-  integrity sha512-88W7FAsYzc3Vy2mGCFe/YTD6kvoJpqeLRBd5NFMRMdYNqsjHYzkn/mGxaOFJ8yYfLuQqC6vpDYbN6Ps5mtIM3w==
+  version "1.4.523"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.523.tgz#f82f99243c827df05c26776d49712cb284972df6"
+  integrity sha512-9AreocSUWnzNtvLcbpng6N+GkXnCcBR80IQkxRC9Dfdyg4gaWNUPBujAHUpKkiUkoSoR9UlhA4zD/IgBklmhzg==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -3488,9 +3488,9 @@ lilconfig@^2.1.0:
   integrity sha512-utWOt/GHzuUxnLKxB6dk81RoOeoNeHgbrXiuGk4yyF5qlRz+iIVWu56E2fqGHFrXz0QNUhLB/8nKqvRH66JKGQ==
 
 listhen@^1.2.2, listhen@^1.4.8:
-  version "1.5.2"
-  resolved "https://registry.yarnpkg.com/listhen/-/listhen-1.5.2.tgz#449db7e5774201149307d5e9e9dd19c430e62808"
-  integrity sha512-hcOLr0z3vd3KzjOm2F2fX47faCWu9ldFrthhOPJ65kcu7Yr2wq/NiXOU62DH++FnkSnGbDk+O7Xf6MXQ4UUiHg==
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/listhen/-/listhen-1.5.3.tgz#c0c10804c117c6eff0ce6e9781170805d08cbb82"
+  integrity sha512-5SitrZRCH4XXHvKSAqwaLURfQ6ZS/BCv+kpPkage5PhSnQPlz5HIVROCEIcMw8YvIF8NhDUAj/HAI/OovJGEpQ==
   dependencies:
     "@parcel/watcher" "^2.3.0"
     "@parcel/watcher-wasm" "2.3.0"
@@ -4923,9 +4923,9 @@ rollup-plugin-visualizer@^5.9.2:
     yargs "^17.5.1"
 
 rollup@^3.27.1, rollup@^3.29.0:
-  version "3.29.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.29.1.tgz#ba53a179d46ac3cd79e162dca6ab70d93cd26f78"
-  integrity sha512-c+ebvQz0VIH4KhhCpDsI+Bik0eT8ZFEVZEYw0cGMVqIP8zc+gnwl7iXCamTw7vzv2MeuZFZfdx5JJIq+ehzDlg==
+  version "3.29.2"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-3.29.2.tgz#cbc76cd5b03b9f9e93be991d23a1dff9c6d5b740"
+  integrity sha512-CJouHoZ27v6siztc21eEQGo0kIcE5D1gVPA571ez0mMYb25LGYGKnVNXpEj5MGlepmDWGXNjDB5q7uNiPHC11A==
   optionalDependencies:
     fsevents "~2.3.2"
 
