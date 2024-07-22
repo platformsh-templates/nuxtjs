@@ -11,7 +11,7 @@ name: Trigger Auto PR on push to update branch
 on:
   push:
     branches:
-      - update
+      - ${{ vars.SOP_UPDATE_BRANCH || update }}
   workflow_dispatch:
 
 env:
