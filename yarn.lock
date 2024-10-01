@@ -4634,9 +4634,9 @@ tinyglobby@0.2.6:
     picomatch "^4.0.2"
 
 tinyglobby@^0.2.6:
-  version "0.2.7"
-  resolved "https://registry.yarnpkg.com/tinyglobby/-/tinyglobby-0.2.7.tgz#36f583c166ac2d91f47c799d6e2e256fdcfb3a56"
-  integrity sha512-qFWYeNxBQxrOTRHvGjlRdBamy8JFqu6c0bwRru9leE+q8J72tLtlT0L3v+2T7fbLXN7FGzDNBhXkWiJqHUHD9g==
+  version "0.2.8"
+  resolved "https://registry.yarnpkg.com/tinyglobby/-/tinyglobby-0.2.8.tgz#dfa666c75551828580bfe900b86ebf3952bd4642"
+  integrity sha512-AMLZywN0vbhiZi2neFEaj9VIIxC+PjDMsp0nAK6tpR86LJavZgHqGz0S/FOONwBygC+mu7R0/TyAQw0gx0Mu9Q==
   dependencies:
     fdir "^6.4.0"
     picomatch "^4.0.2"
