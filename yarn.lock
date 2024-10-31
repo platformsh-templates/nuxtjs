@@ -1435,11 +1435,11 @@
     superjson "^2.2.1"
 
 "@vue/devtools-kit@^7.4.4":
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-7.6.0.tgz#bf04175116fdcea46d7438c472400c3aa898baef"
-  integrity sha512-82Mhrk/PRiTGfLwj73mXfrrocnCbWEPLLk3r4HhIkcieTa610Snlqc0a9OBiSsldX98YI6rOcL04+Dud1tLIKg==
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-7.6.1.tgz#7300b7898ddb6ce5911b36b0e1e4bacd5e7d8e4b"
+  integrity sha512-cCcdskZDLqKwJUHq1+kH9zAfYM+y9OFq8J2NT0xcAUYpu8K5IJd03ydZkvr7ydOd9UKBxrGyZpYe9PpJ0ChrVw==
   dependencies:
-    "@vue/devtools-shared" "^7.6.0"
+    "@vue/devtools-shared" "^7.6.1"
     birpc "^0.2.19"
     hookable "^5.5.3"
     mitt "^3.0.1"
@@ -1447,10 +1447,10 @@
     speakingurl "^14.0.1"
     superjson "^2.2.1"
 
-"@vue/devtools-shared@^7.4.4", "@vue/devtools-shared@^7.6.0":
-  version "7.6.0"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-7.6.0.tgz#d832a94009df3c25833481bd446075cd2078bca8"
-  integrity sha512-ANh0nvp/oQXaz5PaSXL78I9X3v767kD0Cbit8u6mOd1oZmC+sj115/1CBH8BBBdRuLg8HCjpE2444a6cbXjKTA==
+"@vue/devtools-shared@^7.4.4", "@vue/devtools-shared@^7.6.1":
+  version "7.6.1"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-7.6.1.tgz#c7e766c256a75a2ffb52ec1f51cf0624c3034a21"
+  integrity sha512-SdIif2YoOWo8/s8c1+NU67jcx8qoSjM9caetQnjl3++Kufo0qa5JRZe95iV6vvupQzVGGo3ACY0LTyAsMfGeCg==
   dependencies:
     rfdc "^1.4.1"
 
