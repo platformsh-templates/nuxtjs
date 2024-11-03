@@ -3490,9 +3490,9 @@ napi-wasm@^1.1.0:
   integrity sha512-h/4nMGsHjZDCYmQVNODIrYACVJ+I9KItbG+0si6W/jSjdA9JbWDoU4LLeMXVcEQGHjttI2tuXqDrbGF7qkUHHg==
 
 nitropack@^2.9.7:
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/nitropack/-/nitropack-2.10.0.tgz#5ab928f16ba6758b3c428a0ec47a2bbdeeabf7f8"
-  integrity sha512-i93qB6o2dssqX+Q6lhShGgADTzde6Ev+W23lMe60XhibhHbgsZh2AZX+yIYclHnBsJA/GWvjHkY6nJtx6GRL+g==
+  version "2.10.1"
+  resolved "https://registry.yarnpkg.com/nitropack/-/nitropack-2.10.1.tgz#ab166312b96b7a21d4faaf3d9ef37c8b9f816b3a"
+  integrity sha512-q8w/9W9KLKTlFx0wBALecCRlJHT8n93rVilm2LY9/oOuMUeDGJdG2G3xUuJqRnF/Q217kDHJRSIZGJTUIydnCA==
   dependencies:
     "@cloudflare/kv-asset-handler" "^0.3.4"
     "@netlify/functions" "^2.8.2"
