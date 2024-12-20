@@ -1826,9 +1826,9 @@ confbox@^0.1.7, confbox@^0.1.8:
   integrity sha512-RMtmw0iFkeR4YV+fUOSucriAQNb9g8zFR52MWCtl+cCZOFRNL6zeB395vPzFhEjjn4fMxXudmELnl/KF/WrK6w==
 
 consola@^3.2.3:
-  version "3.2.3"
-  resolved "https://registry.yarnpkg.com/consola/-/consola-3.2.3.tgz#0741857aa88cfa0d6fd53f1cff0375136e98502f"
-  integrity sha512-I5qxpzLv+sJhTVEoLYNcTW+bThDCPsit0vLNKShZx6rLtpilNpmmeTPaeqJb9ZE9dV3DGaeby6Vuhrw38WjeyQ==
+  version "3.3.0"
+  resolved "https://registry.yarnpkg.com/consola/-/consola-3.3.0.tgz#b89affdff331a40eac2f11ecc571eb230b7b560b"
+  integrity sha512-kxltocVQCwQNFvw40dlVRYeAkAvtYjMFZYNlOcsF5wExPpGwPxMwgx4IfDJvBRPtBpnQwItd5WkTaR0ZwT/TmQ==
 
 convert-source-map@^2.0.0:
   version "2.0.0"
@@ -3363,9 +3363,9 @@ nth-check@^2.0.1:
     boolbase "^1.0.0"
 
 nuxi@^3.15.0:
-  version "3.17.0"
-  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.17.0.tgz#4e098673efb4779149f27266418df51f5d0853e1"
-  integrity sha512-umfGtKSIPGFDzp0qBSNA0wsigIBXqVe/pbZ5xmk5d+DTYaoPptcTxulfOYFWqMlIwyzsLMsBLrd8a6dIxEiw1g==
+  version "3.17.1"
+  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.17.1.tgz#efae2cacdf13041ad5505bd0047fccf91bab6b17"
+  integrity sha512-Uz3RlQt8IvhvFfA+rQPxG1mRPckMF9TwPzyEh136iZlSW9khcyHvA2uqC++VNlgMRbVyjvhTq8bCpyNPHHZwrA==
 
 nuxt@^3.6.5:
   version "3.14.1592"
@@ -4633,9 +4633,9 @@ unplugin@^2.1.0:
     webpack-virtual-modules "^0.6.2"
 
 unstorage@^1.13.1:
-  version "1.14.0"
-  resolved "https://registry.yarnpkg.com/unstorage/-/unstorage-1.14.0.tgz#21e030a9736845518174e23d9cb642761dd2b0fc"
-  integrity sha512-FjkD8JSdZyktjzPUR9KbR1Pc2tD9b+rEMMNMyvrlpBwQCftL9WgU7iAvb95QDBi5wDL75SQyTovQASBPzt3a9g==
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/unstorage/-/unstorage-1.14.1.tgz#49d8cb9b219114e29e56d6c1df83be13713083e5"
+  integrity sha512-0MBKpoVhNLL/Ixvue9lIsrHkwwWW9/f3TRftsYu1R7nZJJyHSdgPMBDjny2op07nirnS3OX6H3u+YDFGld+1Bg==
   dependencies:
     anymatch "^3.1.3"
     chokidar "^3.6.0"
