@@ -3364,9 +3364,9 @@ nth-check@^2.0.1:
     boolbase "^1.0.0"
 
 nuxi@^3.15.0:
-  version "3.17.1"
-  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.17.1.tgz#efae2cacdf13041ad5505bd0047fccf91bab6b17"
-  integrity sha512-Uz3RlQt8IvhvFfA+rQPxG1mRPckMF9TwPzyEh136iZlSW9khcyHvA2uqC++VNlgMRbVyjvhTq8bCpyNPHHZwrA==
+  version "3.17.2"
+  resolved "https://registry.yarnpkg.com/nuxi/-/nuxi-3.17.2.tgz#72cad260a8c332cae053b9ca588328138efcfa73"
+  integrity sha512-JDVtBBwEe9VjVkhxwR/crtGJnyLHzvl2F1pjtglekjTVeiMThfhQHcvsI/u007gBAfPpmaCIdRGnoeTF4VKS8w==
 
 nuxt@^3.6.5:
   version "3.14.1592"
