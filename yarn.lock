@@ -3621,12 +3621,12 @@ picomatch@^4.0.2:
   integrity sha512-M7BAV6Rlcy5u+m6oPhAPFgJTzAioX/6B0DxyvDlo9l8+T3nLKbrczg2WLUyzd45L8RqfUMyGPzekbMvX2Ldkwg==
 
 pkg-types@^1.0.3, pkg-types@^1.2.0, pkg-types@^1.2.1:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/pkg-types/-/pkg-types-1.2.1.tgz#6ac4e455a5bb4b9a6185c1c79abd544c901db2e5"
-  integrity sha512-sQoqa8alT3nHjGuTjuKgOnvjo4cljkufdtLMnO2LBP/wRwuDlo1tkaEdMxCRhyGRPacv/ztlZgDPm2b7FAmEvw==
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/pkg-types/-/pkg-types-1.3.0.tgz#53d915eb99485798c554ad8eb2dc2af7c03006eb"
+  integrity sha512-kS7yWjVFCkIw9hqdJBoMxDdzEngmkr5FXeWZZfQ6GoYacjVnsW6l2CcYW/0ThD0vF4LPJgVYnrg4d0uuhwYQbg==
   dependencies:
     confbox "^0.1.8"
-    mlly "^1.7.2"
+    mlly "^1.7.3"
     pathe "^1.1.2"
 
 platformsh-config@^2.4.1:
@@ -4020,12 +4020,12 @@ rimraf@^5.0.5:
     glob "^10.3.7"
 
 rollup-plugin-visualizer@^5.12.0:
-  version "5.12.0"
-  resolved "https://registry.yarnpkg.com/rollup-plugin-visualizer/-/rollup-plugin-visualizer-5.12.0.tgz#661542191ce78ee4f378995297260d0c1efb1302"
-  integrity sha512-8/NU9jXcHRs7Nnj07PF2o4gjxmm9lXIrZ8r175bT9dK8qoLlvKTwRMArRCMgpMGlq8CTLugRvEmyMeMXIU2pNQ==
+  version "5.13.1"
+  resolved "https://registry.yarnpkg.com/rollup-plugin-visualizer/-/rollup-plugin-visualizer-5.13.1.tgz#fa49320cd23c8642f856f8bd45ddaf3e10a5b023"
+  integrity sha512-vMg8i6BprL8aFm9DKvL2c8AwS8324EgymYQo9o6E26wgVvwMhsJxS37aNL6ZsU7X9iAcMYwdME7gItLfG5fwJg==
   dependencies:
     open "^8.4.0"
-    picomatch "^2.3.1"
+    picomatch "^4.0.2"
     source-map "^0.7.4"
     yargs "^17.5.1"
 
@@ -4621,9 +4621,9 @@ unplugin@^2.1.0:
     webpack-virtual-modules "^0.6.2"
 
 unstorage@^1.13.1, unstorage@^1.14.1:
-  version "1.14.3"
-  resolved "https://registry.yarnpkg.com/unstorage/-/unstorage-1.14.3.tgz#73b4b5a9a80d18925783e87ccea9c719a9891f26"
-  integrity sha512-nj1rtc2XWCck2fDB39sboAajqooj9LmxZ9/eBM1XR+iUQAFctKvLl0FcPP5f4vzRgU1dmJ03SZhqZMLc9RDXIA==
+  version "1.14.4"
+  resolved "https://registry.yarnpkg.com/unstorage/-/unstorage-1.14.4.tgz#620dd68997a3245fca1e04c0171335817525bc3d"
+  integrity sha512-1SYeamwuYeQJtJ/USE1x4l17LkmQBzg7deBJ+U9qOBoHo15d1cDxG4jM31zKRgF7pG0kirZy4wVMX6WL6Zoscg==
   dependencies:
     anymatch "^3.1.3"
     chokidar "^3.6.0"
