@@ -4830,9 +4830,9 @@ vite-plugin-vue-inspector@^5.3.1:
     magic-string "^0.30.4"
 
 vite@^5.0.0:
-  version "5.4.12"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.12.tgz#627d12ff06de3942557dfe8632fd712a12a072c7"
-  integrity sha512-KwUaKB27TvWwDJr1GjjWthLMATbGEbeWYZIbGZ5qFIsgPP3vWzLu4cVooqhm5/Z2SPDUMjyPVjTztm5tYKwQxA==
+  version "5.4.13"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-5.4.13.tgz#59994ccf14783e40e2763b950db432cc299cd9fc"
+  integrity sha512-7zp3N4YSjXOSAFfdBe9pPD3FrO398QlJ/5QpFGm3L8xDP1IxDn1XRxArPw4ZKk5394MM8rcTVPY4y1Hvo62bog==
   dependencies:
     esbuild "^0.21.3"
     postcss "^8.4.43"
@@ -4841,9 +4841,9 @@ vite@^5.0.0:
     fsevents "~2.3.3"
 
 vite@^6.0.7:
-  version "6.0.9"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-6.0.9.tgz#0a830b767ef7aa762360b56bdef955c1395dc1ee"
-  integrity sha512-MSgUxHcaXLtnBPktkbUSoQUANApKYuxZ6DrbVENlIorbhL2dZydTLaZ01tjUoE3szeFzlFk9ANOKk0xurh4MKA==
+  version "6.0.10"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-6.0.10.tgz#48685694c36d8c8f87b93f3fd0de089d3930b361"
+  integrity sha512-MEszunEcMo6pFsfXN1GhCFQqnE25tWRH0MA4f0Q7uanACi4y1Us+ZGpTMnITwCTnYzB2b9cpmnelTlxgTBmaBA==
   dependencies:
     esbuild "^0.24.2"
     postcss "^8.4.49"
