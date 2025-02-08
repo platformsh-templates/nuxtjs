@@ -846,9 +846,9 @@
   integrity sha512-Nyyv1Bj7GgYwj/l46O0nkH1GTKWbO3Ixe7KFcn021aZipkZd+z8Vlu1BwkhqtVgivcKaClaExtWU/lDHkjBzag==
 
 "@redocly/openapi-core@^1.28.0":
-  version "1.28.4"
-  resolved "https://registry.yarnpkg.com/@redocly/openapi-core/-/openapi-core-1.28.4.tgz#ac6e40a62838a80defb44f5676b25ae5518dc836"
-  integrity sha512-tYG7MY0cGTeGSQe2AEGWWn8Nt95qyJWsfKuTwMTd8Se5SeY34Vo4tU1S6SU4I0wynIPqgRCBfdoNt4+i+DaEgw==
+  version "1.28.5"
+  resolved "https://registry.yarnpkg.com/@redocly/openapi-core/-/openapi-core-1.28.5.tgz#5415f5bb12cc6916743169758d5cba7413df14ad"
+  integrity sha512-eAuL+x1oBbodJksPm4UpFU57A6z1n1rx9JNpD87CObwtbRf5EzW29Ofd0t057bPGcHc8cYZtZzJ69dcRQ9xGdg==
   dependencies:
     "@redocly/ajv" "^8.11.2"
     "@redocly/config" "^0.20.1"
