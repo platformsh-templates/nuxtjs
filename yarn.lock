@@ -555,9 +555,9 @@
     fastq "^1.6.0"
 
 "@nuxt/cli@^3.22.5":
-  version "3.22.5"
-  resolved "https://registry.yarnpkg.com/@nuxt/cli/-/cli-3.22.5.tgz#eef0a28883957bf1eee7d5137314f11f4fc75888"
-  integrity sha512-vNwmNBQb/T062MxUEqrtSOTvxFHOwSWjzUQSnjUxSqfOrGap/ljx9toT/HngTs1zRHSOBvBz8lxrSju+F/806Q==
+  version "3.23.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/cli/-/cli-3.23.0.tgz#75fa29e9d25f50a3b0a0ca38fcf3b6cbaad2d958"
+  integrity sha512-WZhzSJluW+EZeMGdGGIu6YW7tIhls8Ee2wjcxKzCcQkXZIA0vlliVdnL9+6z2etSuo3i2t2J1QkwuEcb5ZV9fA==
   dependencies:
     c12 "^3.0.2"
     chokidar "^4.0.3"
