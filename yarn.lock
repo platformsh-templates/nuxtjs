@@ -1258,12 +1258,12 @@
   integrity sha512-60BCwRFOZCQhDncwQdxxeOEEkbc5dIMccYLwbxsS4TUNeVECQ/pBJ0j09mrHOl/JJvpRPGwO9SvE4nR2Nb/a4Q==
 
 "@unhead/vue@^2.0.0-rc.13":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@unhead/vue/-/vue-2.0.0.tgz#4a99a9024027b8666d20374a96e850e70837d273"
-  integrity sha512-QkgWNZ9ZWXhhTYZL2JJs33YwmJP7Ix8l28hofV0qM2txlIVhp747bdxdD/eMysMusbvvtHtMgvPEQE6kByqUTw==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@unhead/vue/-/vue-2.0.1.tgz#6c3fd32040af08a57618f2eaf1ff0c6dd4ba21f7"
+  integrity sha512-B5/MyP2HUCh6xtr/kcuEz5Es/ZlU9IQWdUOpkOGKSRgo3Fb4Clg4PuB8pjytegkA5qyeZC7HtXyerTa3JJKsqg==
   dependencies:
     hookable "^5.5.3"
-    unhead "2.0.0"
+    unhead "2.0.1"
 
 "@vercel/nft@^0.29.2":
   version "0.29.2"
@@ -4511,10 +4511,10 @@ unenv@^2.0.0-rc.15:
     pathe "^2.0.3"
     ufo "^1.5.4"
 
-unhead@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/unhead/-/unhead-2.0.0.tgz#918f33bf1bbbab329a6aeb396c1498637a9b87f1"
-  integrity sha512-3H+CpXTMq1FPWc6tWj4VjG+NfWrIXswfpNWC29Ux8Dq0RyWcU1pF00Qx/KjaXprkXH53pE/lTT+1+D8BJ430ew==
+unhead@2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/unhead/-/unhead-2.0.1.tgz#78ee9316a3231af352ef14ebf6a0c7e61568ec2c"
+  integrity sha512-OiZ/3lQTbcdSUwSVtIK9U+cmf9uJYVdDA0BbY7rFcdUv1YFdyCWb+QmOzFyMoUNbwkqOLUqDQISWegXJXjCjSA==
   dependencies:
     hookable "^5.5.3"
 
@@ -4772,11 +4772,12 @@ vite-plugin-vue-inspector@^5.3.1:
     magic-string "^0.30.4"
 
 vite-plugin-vue-tracer@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/vite-plugin-vue-tracer/-/vite-plugin-vue-tracer-0.1.1.tgz#cf1195f82320a52ca7bc90f7f0ff9c85d01a0f11"
-  integrity sha512-8BuReHmbSPd6iRQDQhlyK5+DexY1Hmb4K0GUVo9Te1Yaz8gyOZspBm9qdG1SvebdSIKw3WNlzpdstJ47TJ4bOw==
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/vite-plugin-vue-tracer/-/vite-plugin-vue-tracer-0.1.2.tgz#27366dd20fc59771d7afb358ccdbeeec83324502"
+  integrity sha512-pH8BaBQfC9K9A2/ENsdOSfyba76BZGDsmzi7LvgDqNMcPekznIHRdPFjPMVWetYz7fQGPHqvuSQjUrdTyYLmnQ==
   dependencies:
     estree-walker "^3.0.3"
+    exsolve "^1.0.4"
     magic-string "^0.30.17"
     pathe "^2.0.3"
     source-map-js "^1.2.1"
