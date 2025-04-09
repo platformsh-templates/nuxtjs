@@ -978,9 +978,9 @@
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
 "@polka/url@^1.0.0-next.24":
-  version "1.0.0-next.28"
-  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.28.tgz#d45e01c4a56f143ee69c54dd6b12eade9e270a73"
-  integrity sha512-8LduaNlMZGwdZ6qWrKlfa+2M4gahzFkprZiAt2TF8uS0qQgBizKXpXURqvTJ4WtmupWxaLqjRb2UCTe72mu+Aw==
+  version "1.0.0-next.29"
+  resolved "https://registry.yarnpkg.com/@polka/url/-/url-1.0.0-next.29.tgz#5a40109a1ab5f84d6fd8fc928b19f367cbe7e7b1"
+  integrity sha512-wwQAWhWSuHaag8c4q/KN/vCoeOJYshAIvMQwD4GpSb3OiZklFfvAgmj0VCBBImRpuF/aFgIRzllXlVX93Jevww==
 
 "@poppinss/colors@^4.1.4":
   version "4.1.4"
@@ -4820,9 +4820,9 @@ youch-core@^0.3.1, youch-core@^0.3.2:
     error-stack-parser-es "^1.0.5"
 
 youch@^4.1.0-beta.6:
-  version "4.1.0-beta.6"
-  resolved "https://registry.yarnpkg.com/youch/-/youch-4.1.0-beta.6.tgz#cdac0d912244c79a9f6c6e156e0caaba9904c958"
-  integrity sha512-y1aNsEeoLXnWb6pI9TvfNPIxySyo4Un3OGxKn7rsNj8+tgSquzXEWkzfA5y6gU0fvzmQgvx3JBn/p51qQ8Xg9A==
+  version "4.1.0-beta.7"
+  resolved "https://registry.yarnpkg.com/youch/-/youch-4.1.0-beta.7.tgz#93f25fcd06d66c4c9f6ed75fcf3408626c87ff74"
+  integrity sha512-HUn0M24AUTMvjdkoMtH8fJz2FEd+k1xvtR9EoTrDUoVUi6o7xl5X+pST/vjk4T3GEQo2mJ9FlAvhWBm8dIdD4g==
   dependencies:
     "@poppinss/dumper" "^0.6.3"
     "@speed-highlight/core" "^1.2.7"
