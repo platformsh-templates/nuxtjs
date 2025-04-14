@@ -590,13 +590,13 @@
     "@nuxt/schema" "^3.15.0"
     execa "^7.2.0"
 
-"@nuxt/devtools-kit@2.3.2":
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/@nuxt/devtools-kit/-/devtools-kit-2.3.2.tgz#81dc6d3a2a08f22a58068d9557ac333ba662ae27"
-  integrity sha512-K0citnz9bSecPCLl4jGfE5I5St+E9XtDmOvYqq3ranGZGZ2Mvs5RwgUkaOrn4rulvUmBGBl7Exwh5YX9PONrEQ==
+"@nuxt/devtools-kit@2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/devtools-kit/-/devtools-kit-2.4.0.tgz#a64070ea8f48cccdb5d6f815a197533fcea513bf"
+  integrity sha512-GdxdxEDN1f6uxJOPooYQTLC6X1QUe5kRs83A0PVH/uD0sqoXCjpKHOw+H0vdhkHOwOIsVIsbL+TdaF4k++p9TA==
   dependencies:
-    "@nuxt/kit" "^3.16.1"
-    "@nuxt/schema" "^3.16.1"
+    "@nuxt/kit" "^3.16.2"
+    "@nuxt/schema" "^3.16.2"
     execa "^8.0.1"
 
 "@nuxt/devtools-wizard@1.7.0":
@@ -615,10 +615,10 @@
     rc9 "^2.1.2"
     semver "^7.6.3"
 
-"@nuxt/devtools-wizard@2.3.2":
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/@nuxt/devtools-wizard/-/devtools-wizard-2.3.2.tgz#1f6d6fdfcf2eb4416a4d4a0066bdb74fc409883d"
-  integrity sha512-vrGjcb7O/ojrWM9FXjAyWgMLUTkb9bmQUCXc//wZw8YnJLR/hmmvo0XFwmz31BN7nMLZaMpUclROdlhRSPNf1Q==
+"@nuxt/devtools-wizard@2.4.0":
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/devtools-wizard/-/devtools-wizard-2.4.0.tgz#38d0bfc6b7939a64f7ad192bbf247add46bef9bb"
+  integrity sha512-3/5S2zpl79rE1b/lh8M/2lDNsYiYIXXHZmCwsYPuFJA6DilLQo/VY44oq6cY0Q1up32HYB3h1Te/q3ELbsb+ag==
   dependencies:
     consola "^3.4.2"
     diff "^7.0.0"
@@ -673,21 +673,21 @@
     ws "^8.18.0"
 
 "@nuxt/devtools@^2.3.2":
-  version "2.3.2"
-  resolved "https://registry.yarnpkg.com/@nuxt/devtools/-/devtools-2.3.2.tgz#cfaf7a38abca8369eeea4303d04ce6711adcab80"
-  integrity sha512-MMx7pUW0aPDRmhe3jy91srEiFWq/Q70rjbGoHhzpVosuvyvy/fi0oKOFQqN5V4V7jJLiEx4HAoD0QdqP0I6xBA==
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/devtools/-/devtools-2.4.0.tgz#36ae786db8f217d19ae8f0f1f84d6165128b0be5"
+  integrity sha512-iXjLoLeWfMa2qWWKRG3z6DKlKVLmbIa3zl7Y8X83BF83m7RW1xVXu6S4tVlLaTi+5tzeKIFlXHo+RO/tJVA72A==
   dependencies:
-    "@nuxt/devtools-kit" "2.3.2"
-    "@nuxt/devtools-wizard" "2.3.2"
-    "@nuxt/kit" "^3.16.1"
+    "@nuxt/devtools-kit" "2.4.0"
+    "@nuxt/devtools-wizard" "2.4.0"
+    "@nuxt/kit" "^3.16.2"
     "@vue/devtools-core" "^7.7.2"
     "@vue/devtools-kit" "^7.7.2"
     birpc "^2.3.0"
     consola "^3.4.2"
-    destr "^2.0.3"
+    destr "^2.0.5"
     error-stack-parser-es "^1.0.5"
     execa "^8.0.1"
-    fast-npm-meta "^0.3.1"
+    fast-npm-meta "^0.4.2"
     get-port-please "^3.1.2"
     hookable "^5.5.3"
     image-meta "^0.2.1"
@@ -710,7 +710,7 @@
     which "^5.0.0"
     ws "^8.18.1"
 
-"@nuxt/kit@3.16.2", "@nuxt/kit@^3.15.0", "@nuxt/kit@^3.15.4", "@nuxt/kit@^3.16.1":
+"@nuxt/kit@3.16.2", "@nuxt/kit@^3.15.0", "@nuxt/kit@^3.15.4", "@nuxt/kit@^3.16.2":
   version "3.16.2"
   resolved "https://registry.yarnpkg.com/@nuxt/kit/-/kit-3.16.2.tgz#9fbb2ef3bd9ebeb499b4cc5215e2f857c54b75d7"
   integrity sha512-K1SAUo2vweTfudKZzjKsZ5YJoxPLTspR5qz5+G61xtZreLpsdpDYfBseqsIAl5VFLJuszeRpWQ01jP9LfQ6Ksw==
@@ -738,7 +738,7 @@
     unimport "^4.1.3"
     untyped "^2.0.0"
 
-"@nuxt/schema@3.16.2", "@nuxt/schema@^3.15.0", "@nuxt/schema@^3.16.1":
+"@nuxt/schema@3.16.2", "@nuxt/schema@^3.15.0", "@nuxt/schema@^3.16.2":
   version "3.16.2"
   resolved "https://registry.yarnpkg.com/@nuxt/schema/-/schema-3.16.2.tgz#9231d6c8a6212670fcc0d2a348418e26f7d832df"
   integrity sha512-2HZPM372kuI/uw9VU/hOoYuzv803oZAtyoEKC5dQCQTKAQ293AjypF3WljMXUSReFS/hcbBSgGzYUPHr3Qo+pg==
@@ -2125,9 +2125,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.136"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.136.tgz#854b45e6a892137762cb026ed6ec77391fc5c07b"
-  integrity sha512-kL4+wUTD7RSA5FHx5YwWtjDnEEkIIikFgWHR4P6fqjw1PPLlqYkxeOb++wAauAssat0YClCy8Y3C5SxgSkjibQ==
+  version "1.5.137"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.137.tgz#53a7fef3ea9f7eb5fcf704454050ff930c43ed92"
+  integrity sha512-/QSJaU2JyIuTbbABAo/crOs+SuAZLS+fVVS10PVrIT9hrRkmZl8Hb0xPSkKRUUWHQtYzXHpQUW3Dy5hwMzGZkA==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -2316,10 +2316,10 @@ fast-npm-meta@^0.2.2:
   resolved "https://registry.yarnpkg.com/fast-npm-meta/-/fast-npm-meta-0.2.2.tgz#619e4ab6b71f4ce19d9fad48bba6ffa8164b7361"
   integrity sha512-E+fdxeaOQGo/CMWc9f4uHFfgUPJRAu7N3uB8GBvB3SDPAIWJK4GKyYhkAGFq+GYrcbKNfQIz5VVQyJnDuPPCrg==
 
-fast-npm-meta@^0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/fast-npm-meta/-/fast-npm-meta-0.3.1.tgz#26ee0fcecda0cce2d76e0d2ffe611317c3d64338"
-  integrity sha512-W9gVhqRyz2O3j20I0nFmYEyaMC/046oaMRxxAQ0w6noakfbhpLmlIXmnnqSOmVVuJZ6x5hOPVwlv7PocuawZsw==
+fast-npm-meta@^0.4.2:
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/fast-npm-meta/-/fast-npm-meta-0.4.2.tgz#d5278fa40416fcaa41fac9a3aede1e3b5455677e"
+  integrity sha512-BDN/yv8MN3fjh504wa7/niZojPtf/brWBsLKlw7Fv+Xh8Df+6ZEAFpp3zaal4etgDxxav1CuzKX5H0YVM9urEQ==
 
 fastq@^1.6.0:
   version "1.19.1"
@@ -2429,7 +2429,7 @@ giget@^2.0.0:
     nypm "^0.6.0"
     pathe "^2.0.3"
 
-git-up@^8.0.0:
+git-up@^8.1.0:
   version "8.1.1"
   resolved "https://registry.yarnpkg.com/git-up/-/git-up-8.1.1.tgz#06262adadb89a4a614d2922d803a0eda054be8c5"
   integrity sha512-FDenSF3fVqBYSaJoYy1KSc2wosx0gCvKP+c+PRBht7cAaiCeQlBtfBDX9vgnNOHmdePlSFITVcn4pFfcgNvx3g==
@@ -2438,11 +2438,11 @@ git-up@^8.0.0:
     parse-url "^9.2.0"
 
 git-url-parse@^16.0.1:
-  version "16.0.1"
-  resolved "https://registry.yarnpkg.com/git-url-parse/-/git-url-parse-16.0.1.tgz#8a2b15ceafd29342e42a3d056a771fb9007bf5ae"
-  integrity sha512-mcD36GrhAzX5JVOsIO52qNpgRyFzYWRbU1VSRFCvJt1IJvqfvH427wWw/CFqkWvjVPtdG5VTx4MKUeC5GeFPDQ==
+  version "16.0.3"
+  resolved "https://registry.yarnpkg.com/git-url-parse/-/git-url-parse-16.0.3.tgz#be271cee93ae660fde45eca090fa123bf3f88e4e"
+  integrity sha512-g/G9eCpCKMMlCIUspMrOmVchyhQouJEGFS/5ngeYcVhBhHVm9drycdvyTtw2o9QP6oN6EXCn89SOJKrz+3jn6w==
   dependencies:
-    git-up "^8.0.0"
+    git-up "^8.1.0"
 
 glob-parent@^5.1.2:
   version "5.1.2"
@@ -3406,9 +3406,9 @@ package-manager-detector@^1.1.0:
   integrity sha512-Y8f9qUlBzW8qauJjd/eu6jlpJZsuPJm2ZAV0cDVd420o4EdpH5RPdoCv+60/TdJflGatr4sDfpAL6ArWZbM5tA==
 
 parse-path@^7.0.0:
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/parse-path/-/parse-path-7.0.2.tgz#59bc87de155a6a7010df9f27183a1502d15ae767"
-  integrity sha512-env5u88RpqhTX1OGbWCkZuueRhmK8qFXwyGyTWuC/Vz4a+eUIHM/CCq5L1YtmdQeKBVh+CtZdH0WiY4axuySfg==
+  version "7.0.3"
+  resolved "https://registry.yarnpkg.com/parse-path/-/parse-path-7.0.3.tgz#f29d8942a3562aac561a1b77de6a56cc93dca489"
+  integrity sha512-0R71msgRgmkcZ5CWnzS+GPXJ1Fc+lbKyPDuA83Ej0QKCpf/Feieh813bF38My3CTNBzcQhtRRqvXNpCFF6FRMQ==
   dependencies:
     protocols "^2.0.0"
 
