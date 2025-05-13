@@ -5860,15 +5860,15 @@ undici-types@~6.21.0:
   integrity sha512-iwDZqg0QAGrg9Rav5H4n0M64c3mkR59cJ6wQp+7C4nI0gsmExaedaYLNO44eT4AtBBwjbTiGPMlt2Md0T9H9JQ==
 
 unenv@^2.0.0-rc.15:
-  version "2.0.0-rc.15"
-  resolved "https://registry.yarnpkg.com/unenv/-/unenv-2.0.0-rc.15.tgz#7fe427b6634f00bda1ade4fecdbc6b2dd7af63be"
-  integrity sha512-J/rEIZU8w6FOfLNz/hNKsnY+fFHWnu9MH4yRbSZF3xbbGHovcetXPs7sD+9p8L6CeNC//I9bhRYAOsBt2u7/OA==
+  version "2.0.0-rc.17"
+  resolved "https://registry.yarnpkg.com/unenv/-/unenv-2.0.0-rc.17.tgz#fa9b80d30e16f73e2d4a0be568ca97c0fb76bdac"
+  integrity sha512-B06u0wXkEd+o5gOCMl/ZHl5cfpYbDZKAT+HWTL+Hws6jWu7dCiqBBXXXzMFcFVJb8D4ytAnYmxJA83uwOQRSsg==
   dependencies:
     defu "^6.1.4"
     exsolve "^1.0.4"
     ohash "^2.0.11"
     pathe "^2.0.3"
-    ufo "^1.5.4"
+    ufo "^1.6.1"
 
 unhead@2.0.8:
   version "2.0.8"
