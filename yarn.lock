@@ -2548,9 +2548,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.149:
-  version "1.5.157"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.157.tgz#553b122522ac7bba6f1a0dd7d50b14f297736f75"
-  integrity sha512-/0ybgsQd1muo8QlnuTpKwtl0oX5YMlUGbm8xyqgDU00motRkKFFbUJySAQBWcY79rVqNLWIWa87BGVGClwAB2w==
+  version "1.5.158"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.158.tgz#e5f01fc7fdf810d9d223e30593e0839c306276d4"
+  integrity sha512-9vcp2xHhkvraY6AHw2WMi+GDSLPX42qe2xjYaVoZqFRJiOcilVQFq9mZmpuHEQpzlgGDelKlV7ZiGcmMsc8WxQ==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -6046,6 +6046,6 @@ zip-stream@^6.0.1:
     readable-stream "^4.0.0"
 
 zod@^3.23.8:
-  version "3.25.28"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.25.28.tgz#8ab13d04afa05933598fd9fca32490ca92c7ea3a"
-  integrity sha512-/nt/67WYKnr5by3YS7LroZJbtcCBurDKKPBPWWzaxvVCGuG/NOsiKkrjoOhI8mJ+SQUXEbUzeB3S+6XDUEEj7Q==
+  version "3.25.30"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.25.30.tgz#ffd1b5cc06ff6de4ab35134d8eadb945314c4898"
+  integrity sha512-VolhdEtu6TJr/fzGuHA/SZ5ixvXqA6ADOG9VRcQ3rdOKmF5hkmcJbyaQjUH5BgmpA9gej++zYRX7zjSmdReIwA==
