@@ -2210,9 +2210,9 @@ cron-parser@^4.9.0:
     luxon "^3.2.1"
 
 croner@^9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/croner/-/croner-9.0.0.tgz#1db62160142cf32eb22622e9ae27ba29156883f7"
-  integrity sha512-onMB0OkDjkXunhdW9htFjEhqrD54+M94i6ackoUkjHKbRnXdyEyKRelp4nJ1kAz32+s27jP1FsebpJCVl0BsvA==
+  version "9.1.0"
+  resolved "https://registry.yarnpkg.com/croner/-/croner-9.1.0.tgz#94ccbba2570bca329f60f36ec19875dccf9a63aa"
+  integrity sha512-p9nwwR4qyT5W996vBZhdvBCnMhicY5ytZkR4D1Xj0wuTDEiMnjwR57Q3RXYY/s0EpX6Ay3vgIcfaR+ewGHsi+g==
 
 cronstrue@^2.52.0:
   version "2.61.0"
@@ -6059,6 +6059,6 @@ zip-stream@^6.0.1:
     readable-stream "^4.0.0"
 
 zod@^3.23.8:
-  version "3.25.65"
-  resolved "https://registry.yarnpkg.com/zod/-/zod-3.25.65.tgz#190cb604e1b45e0f789a315f65463953d4d4beee"
-  integrity sha512-kMyE2qsXK1p+TAvO7zsf5wMFiCejU3obrUDs9bR1q5CBKykfvp7QhhXrycUylMoOow0iEUSyjLlZZdCsHwSldQ==
+  version "3.25.67"
+  resolved "https://registry.yarnpkg.com/zod/-/zod-3.25.67.tgz#62987e4078e2ab0f63b491ef0c4f33df24236da8"
+  integrity sha512-idA2YXwpCdqUSKRCACDE6ItZD9TZzy3OZMtpfLoh6oPR47lipysRrJfjzMqFxQ3uJuUPyUeWe1r9vLH33xO/Qw==
