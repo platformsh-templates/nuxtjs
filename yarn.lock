@@ -4018,9 +4018,9 @@ netlify@^13.3.5:
     qs "^6.9.6"
 
 nitropack@^2.11.13:
-  version "2.12.0"
-  resolved "https://registry.yarnpkg.com/nitropack/-/nitropack-2.12.0.tgz#0bebd18d262a399a5b95d2b25b80d975d99f777b"
-  integrity sha512-5H7g7Jbuid99Wv5VuuL/PwysjmDGl+GVFhlSdfRxKkOtvRzNz9HECS6ACjyXqkRGLmtaW0ctB9C4qA+tyqQ8UA==
+  version "2.12.2"
+  resolved "https://registry.yarnpkg.com/nitropack/-/nitropack-2.12.2.tgz#1e615c0abe1ee72be8e836927aa4084f6b4ab3df"
+  integrity sha512-DwNX6MNrNZGOZupSUxWuixyMRKhOgLZ3HRj9z0WtSKuqDnwDmYVa+zJ/1zHvj5Ix9NalSsqfiB8CBHFssLkTng==
   dependencies:
     "@cloudflare/kv-asset-handler" "^0.4.0"
     "@netlify/functions" "^3.1.10"
