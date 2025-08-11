@@ -806,11 +806,11 @@
     fastq "^1.6.0"
 
 "@nuxt/cli@^3.27.0":
-  version "3.27.0"
-  resolved "https://registry.yarnpkg.com/@nuxt/cli/-/cli-3.27.0.tgz#8fbb1d55641e5a832f8eed4a8b7ff3f4629e1d49"
-  integrity sha512-lOdzEvEbGaV06ebKKYgpumLLzbOZMFQzZfT4ZE7foa8/8aXG+GR3g8w9RX2IUyomTdSfapa3UcHDC8srQKRIEw==
+  version "3.28.0"
+  resolved "https://registry.yarnpkg.com/@nuxt/cli/-/cli-3.28.0.tgz#cc7326e13ae442f9395c7d8d72487459686a198f"
+  integrity sha512-WQ751WxWLBIeH3TDFt/LWQ2znyAKxpR5+gpv80oerwnVQs4GKajAfR6dIgExXZkjaPUHEFv2lVD9vM+frbprzw==
   dependencies:
-    c12 "^3.1.0"
+    c12 "^3.2.0"
     citty "^0.1.6"
     clipboardy "^4.0.0"
     confbox "^0.2.2"
@@ -820,11 +820,11 @@
     fuse.js "^7.1.0"
     get-port-please "^3.2.0"
     giget "^2.0.0"
-    h3 "^1.15.3"
+    h3 "^1.15.4"
     httpxy "^0.1.7"
-    jiti "^2.4.2"
+    jiti "^2.5.1"
     listhen "^1.9.0"
-    nypm "^0.6.0"
+    nypm "^0.6.1"
     ofetch "^1.4.1"
     ohash "^2.0.11"
     pathe "^2.0.3"
@@ -835,7 +835,7 @@
     std-env "^3.9.0"
     tinyexec "^1.0.1"
     ufo "^1.6.1"
-    youch "^4.1.0-beta.10"
+    youch "^4.1.0-beta.11"
 
 "@nuxt/devalue@^2.0.2":
   version "2.0.2"
@@ -6513,7 +6513,7 @@ youch@4.1.0-beta.8:
     cookie "^1.0.2"
     youch-core "^0.3.1"
 
-youch@^4.1.0-beta.10:
+youch@^4.1.0-beta.11:
   version "4.1.0-beta.11"
   resolved "https://registry.yarnpkg.com/youch/-/youch-4.1.0-beta.11.tgz#9327b48185a945c6aa51e197a3d2d5d80dc7d682"
   integrity sha512-sQi6PERyO/mT8w564ojOVeAlYTtVQmC2GaktQAf+IdI75/GKIggosBuvyVXvEV+FATAT6RbLdIjFoiIId4ozoQ==
