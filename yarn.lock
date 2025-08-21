@@ -6085,9 +6085,9 @@ unplugin@^1.16.1:
     webpack-virtual-modules "^0.6.2"
 
 unplugin@^2.0.0, unplugin@^2.1.0, unplugin@^2.3.2, unplugin@^2.3.5, unplugin@^2.3.6:
-  version "2.3.7"
-  resolved "https://registry.yarnpkg.com/unplugin/-/unplugin-2.3.7.tgz#e70c2abb93d07ce09c906fe27fba14936250f938"
-  integrity sha512-zU7Osb4D5YNc9eLKsKaG6WQi9soLS+Yd9MDhOHlhAR+uoNy3BmWuddjLMhJpBpSBSIYtK5/MQvAWx9nAURTN6Q==
+  version "2.3.8"
+  resolved "https://registry.yarnpkg.com/unplugin/-/unplugin-2.3.8.tgz#617198a50ec3467f28d03e4096167339747405e6"
+  integrity sha512-lkaSIlxceytPyt9yfb1h7L9jDFqwMqvUZeGsKB7Z8QrvAO3xZv2S+xMQQYzxk0AGJHcQhbcvhKEstrMy99jnuQ==
   dependencies:
     "@jridgewell/remapping" "^2.3.5"
     acorn "^8.15.0"
