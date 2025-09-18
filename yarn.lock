@@ -1399,12 +1399,12 @@
   integrity sha512-60BCwRFOZCQhDncwQdxxeOEEkbc5dIMccYLwbxsS4TUNeVECQ/pBJ0j09mrHOl/JJvpRPGwO9SvE4nR2Nb/a4Q==
 
 "@unhead/vue@^2.0.14":
-  version "2.0.14"
-  resolved "https://registry.yarnpkg.com/@unhead/vue/-/vue-2.0.14.tgz#4cc6a1d244cb987ae2c5556c89e53d9d00700def"
-  integrity sha512-Ym9f+Kd2Afqek2FtUHvYvK+j2uZ2vbZ6Rr9NCnNGGBMdmafAuiZpT117YGyh0ARcueL6Znia0U8ySqPsnHOZIg==
+  version "2.0.17"
+  resolved "https://registry.yarnpkg.com/@unhead/vue/-/vue-2.0.17.tgz#8032de4819b15a9ed5f2b72b25095872468f2425"
+  integrity sha512-jzmGZYeMAhETV6qfetmLbZzUjjx1TjdNvFSobeFZb73D7dwD9wl/nOAx36qq+TvjZsLJdF5PQWToz2oDGAUqCg==
   dependencies:
     hookable "^5.5.3"
-    unhead "2.0.14"
+    unhead "2.0.17"
 
 "@vercel/nft@^0.30.1":
   version "0.30.1"
@@ -1812,9 +1812,9 @@ base64-js@^1.3.1:
   integrity sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==
 
 baseline-browser-mapping@^2.8.3:
-  version "2.8.5"
-  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.8.5.tgz#3147fe6b01a0c49ce1952daebcfc2057fc43fedb"
-  integrity sha512-TiU4qUT9jdCuh4aVOG7H1QozyeI2sZRqoRPdqBIaslfNt4WUSanRBueAwl2x5jt4rXBMim3lIN2x6yT8PDi24Q==
+  version "2.8.6"
+  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.8.6.tgz#c37dea4291ed8d01682f85661dbe87967028642e"
+  integrity sha512-wrH5NNqren/QMtKUEEJf7z86YjfqW/2uw3IL3/xpqZUC95SSVIFXYQeeGjL6FT/X68IROu6RMehZQS5foy2BXw==
 
 bindings@^1.4.0:
   version "1.5.0"
@@ -2358,9 +2358,9 @@ ee-first@1.1.1:
   integrity sha512-WMwm9LhRUo+WUaRN+vRuETqG89IgZphVSNkdFgeb6sS/E4OrDIN7t48CAewSHXc6C8lefD8KKfr5vY61brQlow==
 
 electron-to-chromium@^1.5.218:
-  version "1.5.221"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.221.tgz#bd98014b2a247701c4ebd713080448d539545d79"
-  integrity sha512-/1hFJ39wkW01ogqSyYoA4goOXOtMRy6B+yvA1u42nnsEGtHzIzmk93aPISumVQeblj47JUHLC9coCjUxb1EvtQ==
+  version "1.5.222"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.5.222.tgz#965c93783ad989116b74593ae3068b9466fdb237"
+  integrity sha512-gA7psSwSwQRE60CEoLz6JBCQPIxNeuzB2nL8vE03GK/OHxlvykbLyeiumQy1iH5C2f3YbRAZpGCMT12a/9ih9w==
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -4706,10 +4706,10 @@ unenv@^2.0.0-rc.21:
     pathe "^2.0.3"
     ufo "^1.6.1"
 
-unhead@2.0.14:
-  version "2.0.14"
-  resolved "https://registry.yarnpkg.com/unhead/-/unhead-2.0.14.tgz#5760900dad961d0611f66acb5cddb2d3ff2ac25e"
-  integrity sha512-dRP6OCqtShhMVZQe1F4wdt/WsYl2MskxKK+cvfSo0lQnrPJ4oAUQEkxRg7pPP+vJENabhlir31HwAyHUv7wfMg==
+unhead@2.0.17:
+  version "2.0.17"
+  resolved "https://registry.yarnpkg.com/unhead/-/unhead-2.0.17.tgz#fd4e9943dd84bd2590aff80cb63def65dd81c863"
+  integrity sha512-xX3PCtxaE80khRZobyWCVxeFF88/Tg9eJDcJWY9us727nsTC7C449B8BUfVBmiF2+3LjPcmqeoB2iuMs0U4oJQ==
   dependencies:
     hookable "^5.5.3"
 
@@ -4739,24 +4739,24 @@ unimport@^3.14.5:
     unplugin "^1.16.1"
 
 unimport@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/unimport/-/unimport-5.2.0.tgz#bb0277d268e56b2a65655e8147f5998b4cb782cf"
-  integrity sha512-bTuAMMOOqIAyjV4i4UH7P07pO+EsVxmhOzQ2YJ290J6mkLUdozNhb5I/YoOEheeNADC03ent3Qj07X0fWfUpmw==
+  version "5.3.0"
+  resolved "https://registry.yarnpkg.com/unimport/-/unimport-5.3.0.tgz#c741787adac9e5fa94f8809439546b767cc5a3fe"
+  integrity sha512-cty7t1DESgm0OPfCy9oyn5u9B5t0tMW6tH6bXTjAGIO3SkJsbg/DXYHjrPrUKqultqbAAoltAfYsuu/FEDocjg==
   dependencies:
     acorn "^8.15.0"
     escape-string-regexp "^5.0.0"
     estree-walker "^3.0.3"
-    local-pkg "^1.1.1"
-    magic-string "^0.30.17"
-    mlly "^1.7.4"
+    local-pkg "^1.1.2"
+    magic-string "^0.30.19"
+    mlly "^1.8.0"
     pathe "^2.0.3"
     picomatch "^4.0.3"
-    pkg-types "^2.2.0"
+    pkg-types "^2.3.0"
     scule "^1.3.0"
     strip-literal "^3.0.0"
-    tinyglobby "^0.2.14"
-    unplugin "^2.3.5"
-    unplugin-utils "^0.2.4"
+    tinyglobby "^0.2.15"
+    unplugin "^2.3.10"
+    unplugin-utils "^0.3.0"
 
 universalify@^2.0.0:
   version "2.0.1"
@@ -4984,9 +4984,9 @@ vite-plugin-vue-tracer@^1.0.0:
     source-map-js "^1.2.1"
 
 "vite@^5.0.0 || ^6.0.0 || ^7.0.0-0", vite@^7.1.5:
-  version "7.1.5"
-  resolved "https://registry.yarnpkg.com/vite/-/vite-7.1.5.tgz#4dbcb48c6313116689be540466fc80faa377be38"
-  integrity sha512-4cKBO9wR75r0BeIWWWId9XK9Lj6La5X846Zw9dFfzMRw38IlTk2iCcUt6hsyiDRcPidc55ZParFYDXi0nXOeLQ==
+  version "7.1.6"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-7.1.6.tgz#336806d29983135677f498a05efb0fd46c5eef2d"
+  integrity sha512-SRYIB8t/isTwNn8vMB3MR6E+EQZM/WG1aKmmIUCfDXfVvKfc20ZpamngWHKzAmmu9ppsgxsg4b2I7c90JZudIQ==
   dependencies:
     esbuild "^0.25.0"
     fdir "^6.5.0"
