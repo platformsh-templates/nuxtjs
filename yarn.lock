@@ -4479,11 +4479,9 @@ speakingurl@^14.0.1:
   integrity sha512-1POYv7uv2gXoyGFpBCmpDVSNV74IfsWlDW216UPjbWufNf+bSU6GdbDsxdcxtfwb4xlI3yxzOTKClUosxARYrQ==
 
 srvx@^0.8.9:
-  version "0.8.15"
-  resolved "https://registry.yarnpkg.com/srvx/-/srvx-0.8.15.tgz#cd0b7d1148cb92c90f73bfbf280f3a7a97017512"
-  integrity sha512-poPs1GuctQLpiJ/1Pb8e+5b5lju9hQU7wxJ6NkYVUw7ZZExeRoYwyiaOekal+rDZc99MO/J2y9+SGFpHBKRSpQ==
-  dependencies:
-    cookie-es "^2.0.0"
+  version "0.8.16"
+  resolved "https://registry.yarnpkg.com/srvx/-/srvx-0.8.16.tgz#f2582bd747351b5b0a1c65bce8179bae83e8b2a6"
+  integrity sha512-hmcGW4CgroeSmzgF1Ihwgl+Ths0JqAJ7HwjP2X7e3JzY7u4IydLMcdnlqGQiQGUswz+PO9oh/KtCpOISIvs9QQ==
 
 standard-as-callback@^2.1.0:
   version "2.1.0"
