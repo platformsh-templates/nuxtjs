@@ -1612,9 +1612,9 @@
     rfdc "^1.4.1"
 
 "@vue/language-core@^3.0.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-3.1.1.tgz#29f32ca1fc5f1393f20e3eb9154a18914c813354"
-  integrity sha512-qjMY3Q+hUCjdH+jLrQapqgpsJ0rd/2mAY02lZoHG3VFJZZZKLjAlV+Oo9QmWIT4jh8+Rx8RUGUi++d7T9Wb6Mw==
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-3.1.2.tgz#0ab203a1f800d2b3143ee31f651841eb3c3db596"
+  integrity sha512-PyFDCqpdfYUT+oMLqcc61oHfJlC6yjhybaefwQjRdkchIihToOEpJ2Wu/Ebq2yrnJdd1EsaAvZaXVAqcxtnDxQ==
   dependencies:
     "@volar/language-core" "2.4.23"
     "@vue/compiler-dom" "^3.5.0"
