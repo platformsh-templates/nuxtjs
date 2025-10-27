@@ -1173,9 +1173,9 @@
   integrity sha512-NIJgOsMjbxAXvoGq/X0gD7VPMQ8j9g0BiDaNjVNVjvl+iKXxL3Jre0v31RmBYeLEmkbj2s02v8vFTbUXi5XS2Q==
 
 "@rolldown/pluginutils@^1.0.0-beta.34":
-  version "1.0.0-beta.44"
-  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.44.tgz#ac8dcf86c50b177f7849a0a21df7e78b08eda2dc"
-  integrity sha512-g6eW7Zwnr2c5RADIoqziHoVs6b3W5QTQ4+qbpfjbkMJ9x+8Og211VW/oot2dj9dVwaK/UyC6Yo+02gV+wWQVNg==
+  version "1.0.0-beta.45"
+  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.45.tgz#36fa9462128acaa91d4f62c0b641bfe5eaa9ae65"
+  integrity sha512-Le9ulGCrD8ggInzWw/k2J8QcbPz7eGIOWqfJ2L+1R0Opm7n6J37s2hiDWlh6LJN0Lk9L5sUzMvRHKW7UxBZsQA==
 
 "@rollup/plugin-alias@^5.1.1":
   version "5.1.1"
@@ -3653,9 +3653,9 @@ ohash@^2.0.11:
   integrity sha512-RdR9FQrFwNBNXAr4GixM8YaRZRJ5PUWbKYbE5eOsrwAjJW0q2REGcf79oYPsLyskQCZG1PLN+S/K1V00joZAoQ==
 
 on-change@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/on-change/-/on-change-6.0.0.tgz#bb1c0e0cd4f76a4839da152e36b6b11d24fa87d9"
-  integrity sha512-J7kocOS+ZNyjmW6tUUTtA7jLt8GjQlrOdz9z3yLNTvdsswO+b5lYSdMVzDczWnooyFAkkQiKyap5g/Zba+cFRA==
+  version "6.0.1"
+  resolved "https://registry.yarnpkg.com/on-change/-/on-change-6.0.1.tgz#5fbaf16a78a139a10e63b07c5baf3e8d1fffa66b"
+  integrity sha512-P7o0hkMahOhjb1niG28vLNAXsJrRcfpJvYWcTmPt/Tf4xedcF2PA1E9++N1tufY8/vIsaiJgHhjQp53hJCe+zw==
 
 on-finished@^2.4.1:
   version "2.4.1"
