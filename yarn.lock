@@ -4483,9 +4483,9 @@ speakingurl@^14.0.1:
   integrity sha512-1POYv7uv2gXoyGFpBCmpDVSNV74IfsWlDW216UPjbWufNf+bSU6GdbDsxdcxtfwb4xlI3yxzOTKClUosxARYrQ==
 
 srvx@^0.9.4:
-  version "0.9.4"
-  resolved "https://registry.yarnpkg.com/srvx/-/srvx-0.9.4.tgz#4f9df263aa44dc095eed26335ef4144400edf02f"
-  integrity sha512-yACjRbHWbI3ehhPCrEKBZvAooe/xgJIdA7QRYiYFI1VtsiGyDpSQS5r9Q6ZgTa+R0umaoJhs2umKuGlL3/nDbQ==
+  version "0.9.5"
+  resolved "https://registry.yarnpkg.com/srvx/-/srvx-0.9.5.tgz#43e4a4822b5f7f940dda7e5bc53c5171efd809d5"
+  integrity sha512-nQsA2c8q3XwbSn6kTxVQjz0zS096rV+Be2pzJwrYEAdtnYszLw4MTy8JWJjz1XEGBZwP0qW51SUIX3WdjdRemQ==
 
 standard-as-callback@^2.1.0:
   version "2.1.0"
