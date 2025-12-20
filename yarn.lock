@@ -4623,9 +4623,9 @@ serialize-javascript@^6.0.1:
     randombytes "^2.1.0"
 
 seroval@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/seroval/-/seroval-1.4.0.tgz#b62f1d0c332d2a085f1059866b9c7dac57486682"
-  integrity sha512-BdrNXdzlofomLTiRnwJTSEAaGKyHHZkbMXIywOh7zlzp4uZnXErEwl9XZ+N1hJSNpeTtNxWvVwN0wUzAIQ4Hpg==
+  version "1.4.1"
+  resolved "https://registry.yarnpkg.com/seroval/-/seroval-1.4.1.tgz#c3cf4ba6db244c5fc693d873c4136a7724fb4a29"
+  integrity sha512-9GOc+8T6LN4aByLN75uRvMbrwY5RDBW6lSlknsY4LEa9ZmWcxKcRe1G/Q3HZXjltxMHTrStnvrwAICxZrhldtg==
 
 serve-placeholder@^2.0.2:
   version "2.0.2"
