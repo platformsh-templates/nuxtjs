@@ -1396,9 +1396,9 @@
   integrity sha512-vENRlFU4YbrwVqNDZ7fLvy+JR1CRkyr01jhSiDpE1u6py3OMzQfztQU2jxykW3ALNxO4kSlqIDeYyD0Y9RcQeQ==
 
 "@rolldown/pluginutils@^1.0.0-beta.50":
-  version "1.0.0-beta.55"
-  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.55.tgz#fd8ee62179cab3ea125cbd53fc8fc1179b449749"
-  integrity sha512-vajw/B3qoi7aYnnD4BQ4VoCcXQWnF0roSwE2iynbNxgW4l9mFwtLmLmUhpDdcTBfKyZm1p/T0D13qG94XBLohA==
+  version "1.0.0-beta.56"
+  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.56.tgz#a746fbd90f83da476986fadfd7e9562984a51d0a"
+  integrity sha512-cw9jwAgCs024Nic4OB8PeFDLBHLD1Athcv3bRvyYATIVD9B/gL5X5cJkezT94Y7m7Dk9HXaUMcvb7ypvSX46sA==
 
 "@rollup/plugin-alias@^5.1.1":
   version "5.1.1"
@@ -1881,9 +1881,9 @@
     rfdc "^1.4.1"
 
 "@vue/language-core@^3.1.8":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-3.2.0.tgz#ab7b7ec5be795c715956ad19cab3c6b05239c2d8"
-  integrity sha512-CHIuDtZ04CIElAgEuLbwmq3p7QcmYoVPmBPqtdvWJCflZE5W3KHT/5DRBvDv1r2TteCjN02uYHiaAEWq9hQNiA==
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-3.2.1.tgz#fe70cb54e76d1ac0a8e10ed2b695dd333022a75e"
+  integrity sha512-g6oSenpnGMtpxHGAwKuu7HJJkNZpemK/zg3vZzZbJ6cnnXq1ssxuNrXSsAHYM3NvH8p4IkTw+NLmuxyeYz4r8A==
   dependencies:
     "@volar/language-core" "2.4.27"
     "@vue/compiler-dom" "^3.5.0"
