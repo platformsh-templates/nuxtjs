@@ -1880,7 +1880,7 @@
   dependencies:
     rfdc "^1.4.1"
 
-"@vue/language-core@^3.1.8":
+"@vue/language-core@^3.2.1":
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/@vue/language-core/-/language-core-3.2.1.tgz#fe70cb54e76d1ac0a8e10ed2b695dd333022a75e"
   integrity sha512-g6oSenpnGMtpxHGAwKuu7HJJkNZpemK/zg3vZzZbJ6cnnXq1ssxuNrXSsAHYM3NvH8p4IkTw+NLmuxyeYz4r8A==
@@ -5115,13 +5115,13 @@ unplugin-utils@^0.3.0, unplugin-utils@^0.3.1:
     picomatch "^4.0.3"
 
 unplugin-vue-router@^0.19.0:
-  version "0.19.1"
-  resolved "https://registry.yarnpkg.com/unplugin-vue-router/-/unplugin-vue-router-0.19.1.tgz#1d1bd0ff91608946df11f5cb0fc08ba4e3a9e7a2"
-  integrity sha512-LJVRzfxS4j34K4sx4pggzhqpfAtXNZ6mLLRHvlSbDw11lWKLluuLXRbSWLXfiVj4RHeNHXu/+XxsGX65Ogu07Q==
+  version "0.19.2"
+  resolved "https://registry.yarnpkg.com/unplugin-vue-router/-/unplugin-vue-router-0.19.2.tgz#03ca58859e697e856e59a9373fe77ce36766fd6f"
+  integrity sha512-u5dgLBarxE5cyDK/hzJGfpCTLIAyiTXGlo85COuD4Nssj6G7NxS+i9mhCWz/1p/ud1eMwdcUbTXehQe41jYZUA==
   dependencies:
     "@babel/generator" "^7.28.5"
     "@vue-macros/common" "^3.1.1"
-    "@vue/language-core" "^3.1.8"
+    "@vue/language-core" "^3.2.1"
     ast-walker-scope "^0.8.3"
     chokidar "^5.0.0"
     json5 "^2.2.3"
