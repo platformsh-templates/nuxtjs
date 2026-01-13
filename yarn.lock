@@ -5087,9 +5087,9 @@ untyped@^2.0.0:
     scule "^1.3.0"
 
 unwasm@^0.5.2:
-  version "0.5.2"
-  resolved "https://registry.yarnpkg.com/unwasm/-/unwasm-0.5.2.tgz#cd5a720c4614e57a6e3556f4ed2d0495d27bc947"
-  integrity sha512-uWhB7IXQjMC4530uVAeu0lzvYK6P3qHVnmmdQniBi48YybOLN/DqEzcP9BRGk1YTDG3rRWRD8me55nIYoTHyMg==
+  version "0.5.3"
+  resolved "https://registry.yarnpkg.com/unwasm/-/unwasm-0.5.3.tgz#0d4dd7221bb397ceeac35365077ee5062a9ff728"
+  integrity sha512-keBgTSfp3r6+s9ZcSma+0chwxQdmLbB5+dAD9vjtB21UTMYuKAxHXCU1K2CbCtnP09EaWeRvACnXk0EJtUx+hw==
   dependencies:
     exsolve "^1.0.8"
     knitwork "^1.3.0"
