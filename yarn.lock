@@ -1278,9 +1278,9 @@
   integrity sha512-vENRlFU4YbrwVqNDZ7fLvy+JR1CRkyr01jhSiDpE1u6py3OMzQfztQU2jxykW3ALNxO4kSlqIDeYyD0Y9RcQeQ==
 
 "@rolldown/pluginutils@^1.0.0-beta.56":
-  version "1.0.0-beta.59"
-  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.59.tgz#6fa4ea3032f4730a38182e76e6e1ce25cdabf62c"
-  integrity sha512-aoh6LAJRyhtazs98ydgpNOYstxUlsOV1KJXcpf/0c0vFcUA8uyd/hwKRhqE/AAPNqAho9RliGsvitCoOzREoVA==
+  version "1.0.0-beta.60"
+  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-beta.60.tgz#60dbf2a10c1c4f2faa58798922482bd5eb628c45"
+  integrity sha512-Jz4aqXRPVtqkH1E3jRDzLO5cgN5JwW+WG0wXGE4NiJd25nougv/AHzxmKCzmVQUYnxLmTM0M4wrZp+LlC2FKLg==
 
 "@rollup/plugin-alias@^6.0.0":
   version "6.0.0"
@@ -4885,9 +4885,9 @@ tslib@^2.4.0:
   integrity sha512-oJFu94HQb+KVduSUQL7wnpmqnfmLsOA/nAh6b6EH0wCEoK0/mPeXU6c3wKDV83MkOuHPRHtSXKKU99IBazS/2w==
 
 type-fest@^5.0.0:
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-5.4.0.tgz#be169ec21eaaae88769b3fc69fe0cbbf05350731"
-  integrity sha512-wfkA6r0tBpVfGiyO+zbf9e10QkRQSlK9F2UvyfnjoCmrvH2bjHyhPzhugSBOuq1dog3P0+FKckqe+Xf6WKVjwg==
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-5.4.1.tgz#aa9eaadcdc0acb0b5bd52e54f966ee3e38e125d2"
+  integrity sha512-xygQcmneDyzsEuKZrFbRMne5HDqMs++aFzefrJTgEIKjQ3rekM+RPfFCVq2Gp1VIDqddoYeppCj4Pcb+RZW0GQ==
   dependencies:
     tagged-tag "^1.0.0"
 
