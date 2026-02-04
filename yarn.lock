@@ -43,9 +43,9 @@
     semver "^6.3.1"
 
 "@babel/generator@^7.28.5", "@babel/generator@^7.29.0":
-  version "7.29.0"
-  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.29.0.tgz#4cba5a76b3c71d8be31761b03329d5dc7768447f"
-  integrity sha512-vSH118/wwM/pLR38g/Sgk05sNtro6TlTJKuiMXDaZqPUfjTFcudpCOt00IhOfj+1BFAX+UFAlzCU+6WXr3GLFQ==
+  version "7.29.1"
+  resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.29.1.tgz#d09876290111abbb00ef962a7b83a5307fba0d50"
+  integrity sha512-qsaF+9Qcm2Qv8SRIMMscAvG4O3lJ0F1GuMo5HR/Bp02LopNgnZBC/EkbevHFeGs4ls/oPz9v+Bsmzbkbe+0dUw==
   dependencies:
     "@babel/parser" "^7.29.0"
     "@babel/types" "^7.29.0"
@@ -1345,10 +1345,15 @@
   resolved "https://registry.yarnpkg.com/@poppinss/exception/-/exception-1.2.3.tgz#b713855e6c9fe2110fea0949455c50828145e64a"
   integrity sha512-dCED+QRChTVatE9ibtoaxc+WkdzOSjYTKi/+uacHWIsfodVfpsueo3+DKpgU5Px8qXjgmXkSvhXvSCz3fnP9lw==
 
-"@rolldown/pluginutils@1.0.0-rc.2", "@rolldown/pluginutils@^1.0.0-rc.2":
+"@rolldown/pluginutils@1.0.0-rc.2":
   version "1.0.0-rc.2"
   resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-rc.2.tgz#10324e74cb3396cb7b616042ea7e9e6aa7d8d458"
   integrity sha512-izyXV/v+cHiRfozX62W9htOAvwMo4/bXKDrQ+vom1L1qRuexPock/7VZDAhnpHCLNejd3NJ6hiab+tO0D44Rgw==
+
+"@rolldown/pluginutils@^1.0.0-rc.2":
+  version "1.0.0-rc.3"
+  resolved "https://registry.yarnpkg.com/@rolldown/pluginutils/-/pluginutils-1.0.0-rc.3.tgz#8a88cc92a0f741befc7bc109cb1a4c6b9408e1c5"
+  integrity sha512-eybk3TjzzzV97Dlj5c+XrBFW57eTNhzod66y9HrBlzJ6NsCrWCp/2kaPS3K9wJmurBC0Tdw4yPjXKZqlznim3Q==
 
 "@rollup/plugin-alias@^6.0.0":
   version "6.0.0"
@@ -1781,12 +1786,12 @@
     vite-hot-client "^0.2.4"
 
 "@vue/devtools-core@^8.0.5":
-  version "8.0.5"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-core/-/devtools-core-8.0.5.tgz#ef3803cb22a5ab6e55728adfd564668418b670d9"
-  integrity sha512-dpCw8nl0GDBuiL9SaY0mtDxoGIEmU38w+TQiYEPOLhW03VDC0lfNMYXS/qhl4I0YlysGp04NLY4UNn6xgD0VIQ==
+  version "8.0.6"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-core/-/devtools-core-8.0.6.tgz#08fcb10ec079edfb0c28a6989e30af103881589e"
+  integrity sha512-fN7iVtpSQQdtMORWwVZ1JiIAKriinhD+lCHqPw9Rr252ae2TczILEmW0zcAZifPW8HfYcbFkn+h7Wv6kQQCayw==
   dependencies:
-    "@vue/devtools-kit" "^8.0.5"
-    "@vue/devtools-shared" "^8.0.5"
+    "@vue/devtools-kit" "^8.0.6"
+    "@vue/devtools-shared" "^8.0.6"
     mitt "^3.0.1"
     nanoid "^5.1.5"
     pathe "^2.0.3"
@@ -1818,12 +1823,12 @@
     speakingurl "^14.0.1"
     superjson "^2.2.2"
 
-"@vue/devtools-kit@^8.0.5":
-  version "8.0.5"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-8.0.5.tgz#d16927554adf527785706caa11e910ff4e00a998"
-  integrity sha512-q2VV6x1U3KJMTQPUlRMyWEKVbcHuxhqJdSr6Jtjz5uAThAIrfJ6WVZdGZm5cuO63ZnSUz0RCsVwiUUb0mDV0Yg==
+"@vue/devtools-kit@^8.0.5", "@vue/devtools-kit@^8.0.6":
+  version "8.0.6"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-kit/-/devtools-kit-8.0.6.tgz#057b0bf67935a771350b3c16415196625d325fba"
+  integrity sha512-9zXZPTJW72OteDXeSa5RVML3zWDCRcO5t77aJqSs228mdopYj5AiTpihozbsfFJ0IodfNs7pSgOGO3qfCuxDtw==
   dependencies:
-    "@vue/devtools-shared" "^8.0.5"
+    "@vue/devtools-shared" "^8.0.6"
     birpc "^2.6.1"
     hookable "^5.5.3"
     mitt "^3.0.1"
@@ -1838,10 +1843,10 @@
   dependencies:
     rfdc "^1.4.1"
 
-"@vue/devtools-shared@^8.0.5":
-  version "8.0.5"
-  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-8.0.5.tgz#d97e887640fb2cad1e9b9e40fb46010d69852103"
-  integrity sha512-bRLn6/spxpmgLk+iwOrR29KrYnJjG9DGpHGkDFG82UM21ZpJ39ztUT9OXX3g+usW7/b2z+h46I9ZiYyB07XMXg==
+"@vue/devtools-shared@^8.0.6":
+  version "8.0.6"
+  resolved "https://registry.yarnpkg.com/@vue/devtools-shared/-/devtools-shared-8.0.6.tgz#68e23ca735f01348dfc268e89265a3ccd0340c60"
+  integrity sha512-Pp1JylTqlgMJvxW6MGyfTF8vGvlBSCAvMFaDCYa82Mgw7TT5eE5kkHgDvmOGHWeJE4zIDfCpCxHapsK2LtIAJg==
   dependencies:
     rfdc "^1.4.1"
 
