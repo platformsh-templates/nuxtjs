@@ -634,10 +634,10 @@
     "@nuxt/schema" "^3.15.0"
     execa "^7.2.0"
 
-"@nuxt/devtools-kit@3.2.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@nuxt/devtools-kit/-/devtools-kit-3.2.0.tgz#34ccca97a48b5c0213b6d270e5b8f5fa96f243b0"
-  integrity sha512-wzbW814jiOff/AUgxwNEZXaiICbVFxS9eVGcju2WJ8s4LgoFUD1fI8aBXbh3a4KDPQhjvVWaq92CBZz+M4xhEA==
+"@nuxt/devtools-kit@3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/devtools-kit/-/devtools-kit-3.2.1.tgz#a12d9aab3a4537fb0cde028a373e37558af67aaf"
+  integrity sha512-lwCtTgqH2izU/d+mAmddnPG3mBaia9BsknxYkMFAPbxtph/ex5tPkmQjKACPQU5q4Tl5bTgWgZWo9pa3oz4LMQ==
   dependencies:
     "@nuxt/kit" "^4.3.1"
     execa "^8.0.1"
@@ -658,10 +658,10 @@
     rc9 "^2.1.2"
     semver "^7.6.3"
 
-"@nuxt/devtools-wizard@3.2.0":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@nuxt/devtools-wizard/-/devtools-wizard-3.2.0.tgz#2336c38a0c9a200c87a60b8aa71dab08175d67f8"
-  integrity sha512-cVKpFANNcJBkyFnzbosIvFJ5Zf9OTyT8hLk0QXcjpPzc+bvaoRM3smJ2YQo2daNHAG4tTImvLMdh8l9/1cNR+Q==
+"@nuxt/devtools-wizard@3.2.1":
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/devtools-wizard/-/devtools-wizard-3.2.1.tgz#548deda3e37446f81341fb11494094f92d14a290"
+  integrity sha512-NKUg54cLQSDeBWaNwAPkVIpwXtd1CrxLr0inl9Z7OdLwsidqMrncNObO6K3HgV0PEdAcqY4IwE2hkON2dlRLYw==
   dependencies:
     consola "^3.4.2"
     diff "^8.0.3"
@@ -716,12 +716,12 @@
     ws "^8.18.0"
 
 "@nuxt/devtools@^3.1.1":
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/@nuxt/devtools/-/devtools-3.2.0.tgz#e4ac5ec37a74508fabd69080ceea055a187eb806"
-  integrity sha512-2fn7HjLv/mTogiBhnWiAvC/h0BndwjVoIjK8U1RHyfahOzsGs6kU4G00lxvts4WS8BXJIqRsW6d9gyTn1hYepg==
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/@nuxt/devtools/-/devtools-3.2.1.tgz#02c9a461bdd961707c4a8177dcece6ed55d68169"
+  integrity sha512-cujObmksivcE1AQJUKigJtybQ5FvnsfPIDWoepC8Tx+Nq57WFy1xM0qX4rPesRFvTxn7O6RaYQeXOh7U8a1WKQ==
   dependencies:
-    "@nuxt/devtools-kit" "3.2.0"
-    "@nuxt/devtools-wizard" "3.2.0"
+    "@nuxt/devtools-kit" "3.2.1"
+    "@nuxt/devtools-wizard" "3.2.1"
     "@nuxt/kit" "^4.3.1"
     "@vue/devtools-core" "^8.0.6"
     "@vue/devtools-kit" "^8.0.6"
@@ -3576,9 +3576,9 @@ nanoid@^5.0.9, nanoid@^5.1.5:
   integrity sha512-c7+7RQ+dMB5dPwwCp4ee1/iV/q2P6aK1mTZcfr1BTuVlyW9hJYiMPybJCcnBlQtuSmTIWNeazm/zqNoZSSElBg==
 
 nanotar@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/nanotar/-/nanotar-0.2.0.tgz#763afd4e41974d033011f588e9157dff726c296b"
-  integrity sha512-9ca1h0Xjvo9bEkE4UOxgAzLV0jHKe6LMaxo37ND2DAhhAtd0j8pR1Wxz+/goMrZO8AEZTWCmyaOsFI/W5AdpCQ==
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/nanotar/-/nanotar-0.2.1.tgz#9ad951e4b2a4cf19e81efab849091371119af255"
+  integrity sha512-MUrzzDUcIOPbv7ubhDV/L4CIfVTATd9XhDE2ixFeCrM5yp9AlzUpn91JrnN0HD6hksdxvz9IW9aKANz0Bta0GA==
 
 napi-wasm@^1.1.0:
   version "1.1.3"
